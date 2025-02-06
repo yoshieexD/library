@@ -20,6 +20,7 @@
                 <sheet>
                     <group>
                         <field name="name" />
+                        <field name="isbn_13" />
                         <field name="author_id" />
                         <field name="category_id" />
                     </group>
